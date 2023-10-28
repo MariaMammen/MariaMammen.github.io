@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: forest
   theme_night: minimal
-  font: minimal
+  font: Classic
   font_size: L
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A personal website for Maria Mammen'
+    twitter: 'Maria_Mammen'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: true
+    show_logo: false
     show_language: false
     show_day_night: true
     show_search: true
