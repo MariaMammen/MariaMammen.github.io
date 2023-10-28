@@ -1,102 +1,61 @@
 ---
 # Display name
-title: 吳健雄
+title: Maria Mammen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Maria
+last_name: Mammen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher and academic project coordinator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ludwig-Maximilians-Universität München
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:''
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+research interests:
+- peer interactions
+- parent--child interactions
+- moral development
+- moral reasoning
+- communication
+  
 
 # Education to show in About widget
 education:
+ education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Developmental Psychology
+    institution: University of Manchester, UK & Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany
+    year: 2018
+  - course: Master of Arts, Linguistics
+    institution: University of Leipzig
+    year: 2014
 
-# Skills
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-    - name: Python
-      description: ''
-      percent: 80
-      icon: python
-      icon_pack: fab
-    - name: Data Science
-      description: ''
-      percent: 100
-      icon: chart-line
-      icon_pack: fas
-    - name: SQL
-      description: ''
-      percent: 40
-      icon: database
-      icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Maria_Mammen
     label: Follow me on Twitter
     display:
       header: true
@@ -108,17 +67,26 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/dr-maria-mammen-a33a15152/
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow my research on ResearchGate
+    link: 'https://www.researchgate.net/profile/Maria-Mammen'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  # link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+From 2019 - 2023 I worked as a project coordinator, lecturer and postdoctoral researcher in developmental psychology at the [Social Development Lab](https://www.socialdevlab.org/) at the Ludwig-Maximilians-Universität in Munich, Germany. 
+
+As a researcher, my focus is on **understanding how children learn about rules, norms and values in their interactions with the people around them**. Specifically, I explore how preschool children discuss moral issues with their friends and their parents, and how these interactions shape their moral development.
+
+As a lecturer, **I thrive to inspire the next generation of researchers** by mentoring undergrad and postgrad students and overseeing Bachelor's and Master's theses in psychology and pedagogy. I'm also a dedicated teacher of undergraduate courses that cover the foundations of academic research, writing, and consultation skills.
+
 {style="text-align: justify;"}
