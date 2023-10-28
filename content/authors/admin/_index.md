@@ -23,10 +23,8 @@ role: Postdoctoral researcher and academic project coordinator
 organizations:
   - name: Ludwig-Maximilians-Universität München
     url: ''
-
 # Short bio (displayed in user profile at end of posts)
 bio:  
-
 # Interests to show in About widget
 research interests:
 - peer interactions
@@ -34,11 +32,8 @@ research interests:
 - moral development
 - moral reasoning
 - communication
-  
-
 # Education to show in About widget
 education:
- education:
   courses:
   - course: PhD in Developmental Psychology
     institution: University of Manchester, UK & Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany
