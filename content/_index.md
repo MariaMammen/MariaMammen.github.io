@@ -226,35 +226,35 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-- block: contact
-  content:
-    address:
-      city: Nuremberg
-      country: Germany
-      country_code: DE
-      postcode: ""
-      region: Germany
-      street: 
-    # appointment_url: https://calendly.com
-    # autolink: true
-    contact_links:
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/Maria_Mammen
-      name: Follow my updates on X, fka Twitter
-    - icon: mastodon
-      icon_pack: fab
-      link: https://mas.to/@maria_mammen
-      name: I recently moved to Mastodon
-    - icon: linkedin
-      icon_pack: fab
-      link: https://www.linkedin.com/in/dr-maria-mammen-a33a15152/
-      name: See my LinkedIn Profile
-    - icon: researchgate
-      icon_pack: fab
-      name: Follow my research on ResearchGate
-      link: 'https://www.researchgate.net/profile/Maria-Mammen'
-      email: maria.mammen [at] posteo.de
-    design:
-      columns: '2'
+  - block: contact
+    content:
+      address:
+        city: Nuremberg
+        country: Germany
+        country_code: DE
+        postcode: ""
+        region: Germany
+        street: 
+      # appointment_url: https://calendly.com
+      # autolink: true
+      contact_links:
+      - icon: twitter
+        icon_pack: fab
+        link: https://twitter.com/Maria_Mammen
+        name: Follow my updates on X, fka Twitter
+      - icon: mastodon
+        icon_pack: fab
+        link: https://mas.to/@maria_mammen
+        name: I recently moved to Mastodon
+      - icon: linkedin
+        icon_pack: fab
+        link: https://www.linkedin.com/in/dr-maria-mammen-a33a15152/
+        name: See my LinkedIn Profile
+      - icon: researchgate
+        icon_pack: fab
+        name: Follow my research on ResearchGate
+        link: 'https://www.researchgate.net/profile/Maria-Mammen'
+        email: maria.mammen [at] posteo.de
+      design:
+        columns: '2'
 ---
