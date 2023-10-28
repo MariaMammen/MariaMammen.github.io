@@ -1,7 +1,7 @@
 ---
-title: Terms
-date: '2018-06-28T00:00:00+01:00'
-draft: true
+title: Impressum
+date: '2023-10-28'
+draft: false
 share: false
 commentable: false
 editable: false
@@ -12,4 +12,7 @@ header:
   image: ''
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+*Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV*  
+Maria Mammen, Nürnberg 
+
+*(Adresse auf Anfrage)*
